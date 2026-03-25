@@ -1,0 +1,24 @@
+#--tg message handling and others--#
+pyrofork
+
+#--http requests handling--#
+aiohttp
+
+#--make pyrogram more fast--#
+#tgcrypto
+TgCrypto-pyrofork
+
+#--mangodb handler--#
+pymongo
+
+#--connectivity helper--#
+dnspython
+
+#--pyrogram helper ext--#
+pyromod 
+
+#--convert for human readable format--# 
+humanize
+
+#--async pymongo driver--#
+motor 
