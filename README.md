@@ -38,14 +38,19 @@ The bot works seamlessly with both private channels and public groups, offering 
 - 📋 **Activity Logging** - Comprehensive logs of all bot activities
 - 🎯 **Permission Management** - Control chat permissions for new members
 
-### Administrator Tools
-- `/start` - Check bot status
-- `/help` - View available commands
-- `/report` - Report issues to admin
-- `/users` - Report issues to admin (ONLY FOR ADMINS)
-- Forward a message to broadcast with pin and delete feature (ONLY FOR ADMINS)
-- Forward a message from channel to gen invite link with auto request support (ONLY FOR ADMINS)
-- User analytics and management dashboard
+### Commands
+```
+start - to start this bot | add to group 
+report - /report <Message>
+login - login with telegram account
+logout - logout and clear session from db 
+accept_on - automatic request accept user 
+accept_off - automatic user request accept off
+accept - to accept pending request of a chat 
+users - to see users list [OWNER]
+sendmessage - /sendmessage <User ID> <Message> [OWNER]
+broadcast - to send broadcast to all users [owner]
+```
 
 ---
 
